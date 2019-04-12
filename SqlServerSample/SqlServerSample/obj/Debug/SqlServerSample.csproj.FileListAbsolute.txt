@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\project\SqlServerSample\SqlServerSample\bin\Debug\SqlServerSample.exe.config
+C:\Users\admin\Desktop\project\SqlServerSample\SqlServerSample\bin\Debug\SqlServerSample.exe
+C:\Users\admin\Desktop\project\SqlServerSample\SqlServerSample\bin\Debug\SqlServerSample.pdb
+C:\Users\admin\Desktop\project\SqlServerSample\SqlServerSample\obj\Debug\SqlServerSample.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\project\SqlServerSample\SqlServerSample\obj\Debug\SqlServerSample.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\project\SqlServerSample\SqlServerSample\obj\Debug\SqlServerSample.exe
+C:\Users\admin\Desktop\project\SqlServerSample\SqlServerSample\obj\Debug\SqlServerSample.pdb
